@@ -1,0 +1,45 @@
+.markdown-content {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: #ffffff;
+}
+
+.markdown-content blockquote {
+  margin: 0 0 1em 1.5em;
+  border-left: 0.25em solid #ddd;
+  padding-left: 1em;
+  background-color: #333;
+  color: #ddd;
+}
+
+.markdown-content h1 {
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.markdown-content hr {
+  border: 0;
+  border-top: 1px solid #ddd;
+  margin: 1em 0;
+}
+
+.markdown-content a {
+  color: #007bff;
+  text-decoration: none;
+  display: block;
+}
+
+.markdown-content a:hover {
+  text-decoration: underline;
+}
+
+.markdown-content img {
+  max-width: 100%;
+  height: auto;
+}
